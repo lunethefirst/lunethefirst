@@ -6,7 +6,7 @@
 👾 Advisor @[Merit](https://twitter.com/MeritByFrankie);<br>
 
 - ⚙️ Favorite Languages: `.js`, `.lua`, `.py`
-- 🌍 Located: New York, NY
+- 🎃 Located: Salem, MA 
 - 🤸 Experienced event organizer, passionate about scheduling and logistics
 - 💰 Paid to make platforms profitable and compliant with all those privacy acrynoyms
 - 💬 `message me` me about **monetization**, **mentorship**, **event planning**, **javascript**
